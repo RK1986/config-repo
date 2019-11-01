@@ -1,0 +1,11 @@
+name: developer
+kafka:
+  topics:
+    0: sip1
+    1: sip2
+    2: sip3
+    3: sip4
+    4: sip5
+    5: sip6
+    6: sip7
+
